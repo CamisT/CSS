@@ -1,0 +1,204 @@
+body{
+    background-position: center;
+    background-size: auto;
+    background-attachment: fixed;
+    background-color: rgb(rgb(105, 57, 57), rgb(32,rgb(24, 24, 124), 32), blue);
+}
+
+#estados{
+    border-style: solid;
+    text-align: start;
+    border: hidden;
+    max-width: auto;
+    
+   
+}
+#estados img{
+    width:200px;
+    height:200px;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 14px;
+    text-align: left;
+}
+
+h1{
+    font-family: Geneva;
+    font-variant: small-caps;
+}
+
+div{
+    border-style: none;
+    margin: 10px 10px 10px 10px;
+}
+
+div .df{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px yellow;
+}
+div .mt{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px yellow;
+}
+div .go{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px yellow;
+}
+div .mg{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px green;
+}
+div .al{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .pi{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .pb{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .rs{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px blue;
+}
+div .ba{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .pb{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .pe{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .am{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .es{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px green;
+}
+div .pr{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px blue;
+}
+div .rr{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .rn{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .ce{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .ms{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px yellow;
+}
+div .rj{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px green;
+}
+div .pa{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .se{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}
+div .ro{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .to{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .ac{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .sc{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px blue;
+}
+div .sp{
+    border: 10px;
+    border-color: green;
+    border-style: solid;
+    box-shadow: 10px 10px 10px green;
+}
+div .amap{
+    border: 10px;
+    border-color:blue;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(66, 255, 66);
+}
+div .ma{
+    border: 10px;
+    border-color:orange;
+    border-style: solid;
+    box-shadow: 10px 10px 10px orange;
+}

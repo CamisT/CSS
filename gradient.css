@@ -5,7 +5,7 @@
             }
             
 
-            div.gif2 {
+      div.gif2 {
 
               background-image: url(https://acegif.com/wp-content/uploads/2021/4fh5wi/bemvindo-15.gif);
               width: 100%;
@@ -19,13 +19,59 @@
         text-align: center;
         background: linear-gradient(rgb(0, 255, 242), yellow);
       }
-    
+      div.Imagem1 {
+          
+        background-image: url(https://static5.depositphotos.com/1007593/453/i/600/depositphotos_4530089-stock-photo-african-landscape.jpg);
+              width: 100%;
+              height: 600px;
+              background-size: cover;
+              background-position: center;
+
+      }
       div.p2 {
         width: 100%;
         height: 100px;
         text-align: center;
         background-image: linear-gradient(360deg, red , rgb(19, 221, 29));
       }
+      div.Imagem2 {
+          
+        background-image: url(https://s2.glbimg.com/SgUA7DwaTtpnrIV_LTCNnqli5IE=/0x0:620x156/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/7/2DdjAWShGpNAKtlyQPZw/2012-04-12-panoramica-rio-ok.jpg);
+              width: 100%;
+              height: 300px;
+              background-size: cover;
+              background-position: center;
+      }
+
+      div.Imagem3 {
+          
+        background-image: url(https://blog.emania.com.br/wp-content/uploads/2015/07/1.jpg);
+              width: 100%;
+              height: 300px;
+              background-size: cover;
+              background-position: center;
+      }
+
+      div.Imagem4 {
+          
+        background-image: url(https://blog.emania.com.br/wp-content/uploads/2017/04/1.png);
+              width: 100%;
+              height: 400px;
+              background-size: cover;
+              background-position: center;
+      }
+
+      div.Imagem5 {
+          
+        background-image: url(https://cdn.pixabay.com/photo/2017/06/07/20/03/panoramic-landscape-2381388_960_720.jpg);
+              width: 100%;
+              height: 400px;
+              background-size: cover;
+              background-position: center;
+      }
+
+
+
       div.gif1 {
 
         background-image: url(https://pa1.narvii.com/6751/fd7e48c90686ea8c9c8f5626060fa74bb27acdf1_hq.gif);
@@ -84,5 +130,4 @@
         background-size: cover;
         background-position: center;
       }  
-
 

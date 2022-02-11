@@ -1,0 +1,239 @@
+body{
+    margin: 300px;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin-top: 25px;
+}
+
+
+
+.container1{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 1fr ;
+    grid-template-areas: 
+        'item1'
+        'item2'
+    ;
+    
+    gap: 10px;
+
+}
+.item1 {
+    background-color: rgb(16, 221, 102);
+    grid-area: item1;
+}
+.item2 {
+    background-color: rgb(154, 8, 252);
+    grid-area: item2;
+}
+.container2{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr 100px;
+    grid-template-columns: 1fr ;
+    grid-template-areas: 
+        'item3'
+        'item4'
+        'item5'
+    ;
+    
+    gap: 10px;
+
+}
+.item3 {
+    background-color: rgb(250, 165, 7);
+    grid-area: item3;
+}
+.item4 {
+    background-color: rgb(255, 0, 55);
+    grid-area: item4;
+}
+.item5 {
+    background-color: rgb(0, 255, 64);
+    grid-area: item5;
+}
+
+.container3{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 1fr ;
+    grid-template-columns: 100px 1fr ;
+    grid-template-areas: 
+        'item6 item7 '
+        
+    ;
+    
+    gap: 10px;
+
+}
+.item6 {
+    background-color: rgb(5, 237, 253);
+    grid-area: item6;
+}
+.item7 {
+    background-color: rgb(3, 80, 35);
+    grid-area: item7;
+}
+.container4 {
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-areas: 
+        'item8 item9 item10'
+       
+    ;
+    
+    gap: 10px;
+
+}
+.item8 {
+    background-color: rgb(229, 255, 0);
+    grid-area: item8;
+}
+.item9 {
+    background-color: rgb(255, 0, 43);
+    grid-area: item9;
+}
+.item10 {
+    background-color: rgb(22, 21, 21);
+    grid-area: item10;
+}
+.container5{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 100px 1fr ;
+    grid-template-areas: 
+        'item11 item11'
+        'item12 item13'
+    ;
+    
+    gap: 10px;
+
+}
+.item11 {
+    background-color: rgb(136, 192, 4);
+    grid-area: item11;
+}
+.item12 {
+    background-color: rgb(1, 83, 42);
+    grid-area: item12;
+}
+.item13 {
+    background-color: rgb(253, 6, 179);
+    grid-area: item13;
+}
+.container6{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-areas: 
+        'item14 item14 item14'
+        'item15 item16 item17'
+    ;
+    
+    gap: 10px;
+
+}
+.item14 {
+    background-color: rgb(5, 59, 236);
+    grid-area: item14;
+}
+.item15 {
+    background-color: rgba(240, 148, 10, 0.541);
+    grid-area: item15;
+}
+.item16 {
+    background-color: rgb(206, 213, 248);
+    grid-area: item16;
+}
+.item17 {
+    background-color: rgb(0, 183, 255);
+    grid-area: item17;
+}
+.container7{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr 100px;
+    grid-template-columns: 100px 1fr ;
+    grid-template-areas: 
+        'item18 item18'
+        'item19 item20'
+        'item21 item21'
+    ;
+    
+    gap: 10px;
+
+}
+.item18 {
+    background-color: rgb(6, 247, 78);
+    grid-area: item18;
+}
+.item19 {
+    background-color: rgb(9, 247, 255);
+    grid-area: item19;
+}
+.item20{
+    background-color: rgb(177, 101, 15);
+    grid-area: item20;
+}
+.item21 {
+    background-color: rgb(12, 8, 250);
+    grid-area: item21;
+}
+.container8{
+    min-height: 60vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-rows: 100px 1fr 50px;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-areas: 
+        'item22 item22 item22'
+        'item23 item24 item25'
+        'item26 item26 item26'
+    ;
+    
+    gap: 10px;
+
+}
+.item22 {
+    background-color: rgb(252, 8, 49);
+    grid-area: item22;
+}
+.item23 {
+    background-color: rgb(5, 238, 56);
+    grid-area: item23;
+}
+.item24 {
+    background-color: rgb(248, 37, 9);
+    grid-area: item24;
+}
+.item25 {
+    background-color: rgb(18, 135, 185);
+    grid-area: item25;
+}
+.item26 {
+    background-color: rgb(229, 5, 236);
+    grid-area: item26;
+}
